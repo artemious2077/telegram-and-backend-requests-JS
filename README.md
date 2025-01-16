@@ -1,5 +1,5 @@
-# Documentation
+# Documentation (first vertion)
 
-1) I use JS for binding Telegram API & Telegram Bot (created by Bot father) for sending messege consumer usind his chat ID
+I use JS for binding Telegram API & Telegram Bot (created by Bot father) for sending messege consumer usind his chat ID
 
 
